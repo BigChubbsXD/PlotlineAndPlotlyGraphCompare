@@ -1,2 +1,2 @@
-# PlotlineAndPlotlyGraphCompare
-I will be comparing graphs of Plotline and Plotly.
+# PlotnineAndPlotlyGraphCompare
+I will be comparing graphs of Plotnine and Plotly.
