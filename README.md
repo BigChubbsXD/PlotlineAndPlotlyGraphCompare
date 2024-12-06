@@ -13,3 +13,5 @@ Install Plotnine (for Plotnine and its dataframes)
 Install Numpy (for one specific Plotly graph)
 
 `pip install numpy`
+
+After that, download the file and you should be good to go!
